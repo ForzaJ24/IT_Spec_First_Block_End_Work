@@ -1,7 +1,6 @@
-﻿// "Better","Faster","Stronger","Worse","Slower","Weaker"string [] massive =
-string[] massive1 = new string[5] {"Better", "Faster", "Stronger", "Weeker", "Slower"};
+﻿string[] massive1 = new string[3] {"1", "2", "3"};
 string[] massive2 = new string[massive1.Length];
-void SecondArrayWithIF(string[] massive1, string[] massive2)
+void SecondMassive(string[] massive1, string[] massive2)
 {
     int count = 0;
     for (int i = 0; i < massive1.Length; i++)
@@ -13,7 +12,7 @@ void SecondArrayWithIF(string[] massive1, string[] massive2)
         }
     }
 }
-void PrintArray(string[] array)
+void PrintMassive(string[] array)
 {
     for (int i = 0; i < array.Length; i++)
     {
@@ -21,5 +20,5 @@ void PrintArray(string[] array)
     }
     Console.WriteLine();
 }
-SecondArrayWithIF(massive1, massive2);
-PrintArray(massive2);
+SecondMassive(massive1, massive2);
+PrintMassive(massive2);
