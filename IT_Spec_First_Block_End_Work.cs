@@ -15,5 +15,14 @@ void SecondMassive(string[] massive, string[] massive2)
         }
     }
 }
-
+void PrintArray(string[] massive)
+{
+    for (int i = 0; i < massive.Length; i++)
+    {
+        Console.Write($"{massive[i]} ");
+    }
+    Console.WriteLine();
+}
+SecondMassive(massive, massive2);
+PrintArray(massive2);
 
