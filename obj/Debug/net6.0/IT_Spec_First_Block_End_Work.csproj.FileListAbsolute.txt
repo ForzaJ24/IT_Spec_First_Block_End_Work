@@ -1,0 +1,15 @@
+D:\IT_Spec_First_Block_End_Work\bin\Debug\net6.0\IT_Spec_First_Block_End_Work.exe
+D:\IT_Spec_First_Block_End_Work\bin\Debug\net6.0\IT_Spec_First_Block_End_Work.deps.json
+D:\IT_Spec_First_Block_End_Work\bin\Debug\net6.0\IT_Spec_First_Block_End_Work.runtimeconfig.json
+D:\IT_Spec_First_Block_End_Work\bin\Debug\net6.0\IT_Spec_First_Block_End_Work.dll
+D:\IT_Spec_First_Block_End_Work\bin\Debug\net6.0\IT_Spec_First_Block_End_Work.pdb
+D:\IT_Spec_First_Block_End_Work\obj\Debug\net6.0\IT_Spec_First_Block_End_Work.csproj.AssemblyReference.cache
+D:\IT_Spec_First_Block_End_Work\obj\Debug\net6.0\IT_Spec_First_Block_End_Work.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT_Spec_First_Block_End_Work\obj\Debug\net6.0\IT_Spec_First_Block_End_Work.AssemblyInfoInputs.cache
+D:\IT_Spec_First_Block_End_Work\obj\Debug\net6.0\IT_Spec_First_Block_End_Work.AssemblyInfo.cs
+D:\IT_Spec_First_Block_End_Work\obj\Debug\net6.0\IT_Spec_First_Block_End_Work.csproj.CoreCompileInputs.cache
+D:\IT_Spec_First_Block_End_Work\obj\Debug\net6.0\IT_Spec_First_Block_End_Work.dll
+D:\IT_Spec_First_Block_End_Work\obj\Debug\net6.0\refint\IT_Spec_First_Block_End_Work.dll
+D:\IT_Spec_First_Block_End_Work\obj\Debug\net6.0\IT_Spec_First_Block_End_Work.pdb
+D:\IT_Spec_First_Block_End_Work\obj\Debug\net6.0\IT_Spec_First_Block_End_Work.genruntimeconfig.cache
+D:\IT_Spec_First_Block_End_Work\obj\Debug\net6.0\ref\IT_Spec_First_Block_End_Work.dll
