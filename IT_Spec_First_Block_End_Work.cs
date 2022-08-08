@@ -1,6 +1,6 @@
-﻿string [] massive = new string[] 
+﻿string [] massive =
 {
-   "Better","Faster","Stronger","Worse","Slower","Weaker"
+  "Better","Faster","Stronger","Worse","Slower","Weaker"
 };
 
 
