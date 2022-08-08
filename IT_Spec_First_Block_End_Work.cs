@@ -1,4 +1,4 @@
-﻿//"МТС", "Билайн", "YOTA","Мегафон","ПСБ"
+//"МТС", "Билайн", "YOTA","Мегафон","ПСБ"
 string[] massive1 = new string[5] {"МТС", "Билайн", "YOTA","Мегафон","ПСБ"};
 string[] massive2 = new string[massive1.Length];
 void SecondMassive(string[] massive1, string[] massive2)
@@ -13,13 +13,12 @@ void SecondMassive(string[] massive1, string[] massive2)
         }
     }
 }
-void PrintMassive(string[] array)
+void PrintMassive(string[] massive2)
 {
-    for (int i = 0; i < array.Length; i++)
+    for (int i = 0; i < massive2.Length; i++)
     {
-        Console.Write($"{array[i]} ");
+        Console.Write($"{massive2[i]} ");
     }
-    Console.WriteLine();
 }
 SecondMassive(massive1, massive2);
 PrintMassive(massive2);
