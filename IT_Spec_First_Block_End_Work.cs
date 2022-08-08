@@ -23,6 +23,5 @@ void PrintArray(string[] massive)
     }
     Console.WriteLine();
 }
-SecondMassive(massive, massive2);
-PrintArray(massive2);
+
 
