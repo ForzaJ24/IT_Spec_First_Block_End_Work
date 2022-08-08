@@ -21,7 +21,6 @@ void PrintArray(string[] massive)
     {
         Console.Write($"{massive[i]} ");
     }
-    Console.WriteLine();
 }
 
 
